@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="app_heading">SIMPLE TODO</string>
+    <string name="new_todo">Новая задача</string>
+    <string name="update_todo">Редактировать</string>
+    <string name="todo_title">Заголовок</string>
+    <string name="todo_text">Добавить заметку</string>
+    <string name="todo_create">Создать</string>
+    <string name="todo_update">Обновить</string>
+</resources>
